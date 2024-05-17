@@ -9,11 +9,11 @@ This project's repository is for a purpose similar as a "fail-safe", in case thi
 
 ## Members of this project
 
-- Higor Luiz Bicudo, 2003780
-- Noah Vêri de Morais Franco Aleluia, 2014803
-- Joaquim Pedro Augusto de Castro Leite Oliveira, 2014803.
-- José Rodolfo Faustio Guimares Junior, 1994088
-- João Paulo Ferrari Sant'Ana, 2007857
+- Higor Luiz Bicudo,ra: 2003780
+- Noah Vêri de Morais Franco Aleluia,ra: 2014803
+- Joaquim Pedro Augusto de Castro Leite Oliveira,ra: 2014803.
+- José Rodolfo Faustio Guimares Junior,ra: 1994088
+- João Paulo Ferrari Sant'Ana,ra: 2007857
 
 ## Objectives of this project
 
@@ -29,3 +29,5 @@ may report about abnormal behavior around the campus: behavior which is not lega
 - PHPUnit
 - MySQL
 - Markup Validation Service (https://validator.w3.org/)
+- Update anything in Github
+- put the website online at (https://vercel.com)
